@@ -91,6 +91,7 @@ akhasarentcar/
 ├── index.php               # Halaman Utama (Landing Page & Katalog)
 └── README.md               # Dokumentasi Proyek
 
+---
 
 Tim Pengembang
 Dikembangkan untuk memenuhi Tugas Proyek Mata Kuliah Analisis & Perancangan Sistem Informasi - UPN "Veteran" Jakarta (Tahun 2026).
